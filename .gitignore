@@ -1,0 +1,8 @@
+compile_flags.txt
+*.o
+*-test
+*-test.exe
+main
+main.exe
+out.ppm
+out.png
