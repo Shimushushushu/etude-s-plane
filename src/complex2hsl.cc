@@ -5,7 +5,7 @@
 namespace etude {
 
 real_t l_(real_t r) {
-  return (2.0 / 3.14159) * atan(r);
+  return (2.0 / 3.14159) * std::atan(r);
 }
 
 colorf_t Complex2Hsl(complex_t z) {
